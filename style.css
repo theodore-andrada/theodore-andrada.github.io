@@ -1,13 +1,12 @@
 body {
     margin: 0;
-    background: color(srgb 37, 150, 190);
     text-align: center;    
 }
 div.introduction {
-    background-color: white;
+    max-width: 50%;
+    background-color: rgb(86, 86, 86);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
-    max-width: 100%;
     height: auto;
 }
 div.container {
