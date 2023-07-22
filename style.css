@@ -5,29 +5,33 @@ body {
 div.container {
     max-width: 50%;
     position: relative;
-    height: auto;
-}
-div.image {
+    width: 30%;
+  }
+  
+  div.image {
     display: block;
     width: 100%;
     height: auto;
-}
-div.overlay {
+  }
+  
+  div.overlay {
     position: absolute;
     bottom: 0;
     left: 100%;
     right: 0;
-    background-color: darkgrey;
+    background-color: #252525;
     overflow: hidden;
     width: 0;
     height: 100%;
-    transition: 1s ease;
-}
-div.container:hover .overlay {
+    transition: .5s ease;
+  }
+  
+  div.container:hover .overlay {
     width: 100%;
     left: 0;
-}
-div.text {
+  }
+  
+  div.text {
     white-space: nowrap; 
     color: white;
     font-size: 20px;
