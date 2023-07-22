@@ -4,6 +4,6 @@ body {
     text-align: center;    
 }
 .introduction {
-    background: url("/profile_2.jpg");
+    background: url("/resources/profile_2.jpg");
     height: 1000;
 }
