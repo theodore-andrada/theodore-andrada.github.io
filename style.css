@@ -1,5 +1,8 @@
 body {
     margin: 0;
-    background: url("/profile_2.jpg") color(srgb 37, 150, 190);
+    background: color(srgb 37, 150, 190);
     text-align: center;    
+}
+.introduction {
+    background: url("/profile_2.jpg");
 }
