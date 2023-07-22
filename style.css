@@ -4,9 +4,8 @@ body {
     text-align: center;    
 }
 div.container {
-    max-width: 50%;
     position: relative;
-    width: 50%;
+    width: 30%;
 }
       
 div.image {
