@@ -5,4 +5,5 @@ body {
 }
 .introduction {
     background: url("/profile_2.jpg");
+    height: 1000;
 }
